@@ -52,8 +52,9 @@ GROQ_API_KEY=your_groq_api_key_here
    python -m streamlit run main.py
 ```
 
+## 🎥 Demo Video
 
-
+[Click here to watch the demo](streamlit-main-2025-11-21-16-11-04.mp4)
 
 
 
