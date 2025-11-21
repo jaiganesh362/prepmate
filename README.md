@@ -54,6 +54,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ## Demo Video
 
+https://github.com/jaiganesh362/prepmate/issues/1#issue-3651468495
 
 
 
