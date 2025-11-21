@@ -28,6 +28,9 @@ PrepMate helps job seekers practice mock interviews, analyze job descriptions, a
 
 ### 1. Clone the repository:
 
+```bash
+```
+
 
 
 
