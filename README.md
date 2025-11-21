@@ -54,8 +54,6 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ## 🎥 Demo Video
 
-(streamlit-main-2025-11-21-16-11-04.mp4)
-
 
 
 
