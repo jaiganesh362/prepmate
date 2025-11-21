@@ -54,6 +54,10 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ## 🎥 Demo Video
 
+<video width="700" controls>
+  <source src="assets/streamlit-main-2025-11-21-16-11-04.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
