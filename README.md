@@ -29,7 +29,30 @@ PrepMate helps job seekers practice mock interviews, analyze job descriptions, a
 ### 1. Clone the repository:
 
 ```bash
+git clone https://github.com/jaiganesh362/PrepMate.git
+cd PrepMate
 ```
+
+### 2. Create `.env` file:
+
+```bash
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+### 3. Install dependencies:
+
+```bash
+   python -m venv env
+   env\Scripts\activate
+   pip install -r requirements.txt
+```
+
+### 4. Run app:
+```bash
+   python -m streamlit run main.py
+```
+
+
 
 
 
